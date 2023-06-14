@@ -1,17 +1,9 @@
 # pycharm
 .idea/
 .DS_Store
+.gitignore
 
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Django stuff:
-local_settings.py
-*.sqlite3
-sdata/
-media/
-
-# database migrations
-*/migrations/*.py
-!*/migrations/__init__.py
